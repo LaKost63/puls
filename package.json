@@ -1,0 +1,30 @@
+{
+  "name": "puls",
+  "version": "1.0.0",
+  "description": "used bootstrap grid, scss, gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaKost63/puls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaKost63/puls/issues"
+  },
+  "homepage": "https://github.com/LaKost63/puls#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "browser-sync": "^2.26.13",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
