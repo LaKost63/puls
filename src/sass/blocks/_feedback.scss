@@ -1,0 +1,49 @@
+.feedback {
+    min-height: 947px;
+    padding-bottom: 71px;
+    &-review {
+        position: relative;
+        display: flex;
+        justify-content: space-around;
+        max-height: 273px;
+        /* padding-top: 70px; */
+    }
+    &-content {
+        max-width: 655px;
+    }
+    &__img {
+        display: block;
+        max-height: 169px;
+        margin-right: 62px;
+/*         margin-left: 10px; */
+    }
+    &-wrapper {
+        padding-top: 70px;
+    }
+    hr {
+        margin: 50px 0;
+        height: 1px;
+        border: none;
+        background-color: #f6f6f6;
+    }
+    &__name{
+        font-size: 18px;
+        font-weight: 700;
+        text-align: left;
+        color: #0d0d0d;
+    }
+    &__dist{
+        font-size: 14px;
+        font-weight: 300;
+        text-align: left;
+        color: #646464;
+    }
+    &__text{
+        margin-top: 20px;
+        font-size: 16px;
+        font-weight: 300;
+        text-align: left;
+        color: #0d0d0d;
+/*         margin-right: 10px; */
+    }
+}
