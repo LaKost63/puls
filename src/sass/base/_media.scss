@@ -1,7 +1,7 @@
 @media (max-width: 991px) {
     .promo {
         padding: 28px 50px 93px 50px;
-        background: url(../../img/bg1.png) left -250px center/cover no-repeat;
+        background: url(../img/bg1.png) left -250px center/cover no-repeat;
     }
 
     .catalog-item{
@@ -26,7 +26,7 @@
     .promo {
         min-height: 400px;
         padding-bottom: 85px;
-        background: url(../../img/bg1.png) left -250px center/cover no-repeat;
+        background: url(../img/bg1.png) left -250px center/cover no-repeat;
     }
     .edge__items{
         flex-wrap: wrap;
@@ -131,7 +131,7 @@
         }
     }
     .consultation{
-        background: url(../../img/bg2.png) left -550px (center/cover) no-repeat;
+        background: url(../img/bg2.png) left -550px (center/cover) no-repeat;
         &__descr{
             font-size: 16px;
         }
